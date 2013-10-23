@@ -1,0 +1,14 @@
+{
+  "name": "array-count",
+  "repo": "leafs/array-count",
+  "description": "Returns a count fir the number of iteration in the array",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
