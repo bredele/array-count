@@ -8,10 +8,14 @@
   Install with [component(1)](http://component.io):
 
     $ component install leafs/array-count
+    
+## Usage
 
-## API
-
-
+```js
+var count = require('count');
+count(['amy', 'amy', 'olivier'],'amy');
+// 2
+```
 
 ## License
 
