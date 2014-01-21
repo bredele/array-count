@@ -1,6 +1,6 @@
 {
   "name": "count",
-  "repo": "leafs/array-count",
+  "repo": "bredele/array-count",
   "description": "Returns a count for the number of iteration in the array",
   "version": "0.0.1",
   "keywords": [],
