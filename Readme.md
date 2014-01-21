@@ -1,4 +1,3 @@
-
 # array-count
 
   Returns a count fir the number of iteration in the array
@@ -7,7 +6,7 @@
 
   Install with [component(1)](http://component.io):
 
-    $ component install leafs/array-count
+    $ component install bredele/array-count
     
 ## Usage
 
